@@ -10,13 +10,13 @@
     <!-- Header Section -->
     <header>
         <h1>Kristian Troy Eakins</h1>
-        <p>Dedicated high school student with a passion for finance, accounting, and community service</p>
+        <p>Dedicated and ambitious student with a strong passion for finance, accounting, and community service</p>
         <nav>
             <ul>
                 <li><a href="#about">About Me</a></li>
                 <li><a href="#experience">Experience</a></li>
                 <li><a href="#education">Education</a></li>
-                <li><a href="#achievements">Achievements</a></li>
+                <li><a href="#internships">Internships</a></li>
                 <li><a href="#skills">Skills</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
@@ -26,8 +26,8 @@
     <!-- About Section -->
     <section id="about">
         <h2>About Me</h2>
-        <p>Hello! I'm Kristian, a high school student passionate about finance, accounting, and community service. My journey includes leadership roles in my school's golf team and founding a club to support young patients...</p>
-        <img src="your-photo.jpg" alt="Kristian Troy Eakins">
+        <img src="profile-photo.jpg" alt="Kristian Troy Eakins">
+        <p>Hello! I'm Kristian, a high school student deeply passionate about finance, accounting, and making a difference through community service. My journey has been marked by leadership roles, rigorous academic pursuits, and hands-on experience in the finance sector. I strive to blend my academic knowledge with real-world applications to drive positive change.</p>
     </section>
 
     <!-- Experience Section -->
@@ -36,9 +36,13 @@
         <div class="experience-item">
             <h3>Co-Captain, High School Golf Team</h3>
             <p>American Heritage High School, August 2024 – Present</p>
-            <p>Led team practices and organized tournaments...</p>
+            <p>Led team practices and organized tournaments, resulting in a 9th place finish in regional competition. Mentored new team members to develop their skills and managed scheduling and communications between team members and coaching staff.</p>
         </div>
-        <!-- Repeat for other experiences -->
+        <div class="experience-item">
+            <h3>Co-Founder, Joe DiMaggio All-Stars Club</h3>
+            <p>American Heritage High School, October 2023 – Present</p>
+            <p>Established a student-led initiative to raise funds and collect supplies for young patients of Joe DiMaggio Children’s Hospital. Organized fundraising events, raising over $6,000, including a Mini-Golf event in partnership with Fair Play Sports 4 All.</p>
+        </div>
     </section>
 
     <!-- Education Section -->
@@ -47,45 +51,34 @@
         <div class="education-item">
             <h3>American Heritage School</h3>
             <p>August 2021 - Present</p>
-            <p>GPA: 3.8, 4.4 weighted</p>
+            <p>GPA: 3.8 (Unweighted), 4.4 (Weighted)</p>
+            <p>Relevant Coursework: Business Essentials, Entrepreneurship, Finance & Accounting, Marketing, Business Management, Architecture 1 & 2, Computer Science.</p>
         </div>
-        <!-- Repeat for other education entries -->
+        <div class="education-item">
+            <h3>Cambridge University - Business/Entrepreneurship</h3>
+            <p>July 2023 - August 2023</p>
+            <p>Earned college credit in entrepreneurship. Created and presented a business idea to investors.</p>
+        </div>
     </section>
 
-    <!-- Achievements Section -->
-    <section id="achievements">
-        <h2>Achievements and Awards</h2>
-        <ul>
-            <li>ISSOS Outdoor Leadership Achievement Award (2023)</li>
-            <li>ISSOS Clan Spirit Award (2023)</li>
-            <li>Geometry Award (2022)</li>
-        </ul>
+    <!-- Internships Section -->
+    <section id="internships">
+        <h2>Internships</h2>
+        <div class="experience-item">
+            <h3>Accounting Intern, Seal Aftermarket Products</h3>
+            <p>Hollywood, FL | June 2022 - August 2022, June 2023 - August 2023</p>
+            <p>Assisted in managing accounts receivable and payable reconciliations, providing valuable insights into the financial health of the company. Performed trend analysis of accounts payable and receivable aging reports, contributing to the optimization of cash flow management.</p>
+        </div>
+        <div class="experience-item">
+            <h3>Golf Ambassador, Fair Play Sports 4 All</h3>
+            <p>Pembroke, FL | October 2023 – Present</p>
+            <p>Organized used golf club events, obtaining used golf clubs from local golf clubs and individuals. Coordinated with Keiser University representatives to provide equipment for disadvantaged youth groups and veteran's golf programs, promoting inclusivity in sports.</p>
+        </div>
     </section>
 
     <!-- Skills Section -->
     <section id="skills">
-        <h2>Skills & Certifications</h2>
-        <p>QuickBooks Certification, Photography, Communication, Team Motivation...</p>
-    </section>
 
-    <!-- Contact Section -->
-    <section id="contact">
-        <h2>Contact Me</h2>
-        <p>Email: Pl221971@ahschool.com | kristian.teakins@gmail.com</p>
-        <form action="submit_form.php" method="post">
-            <input type="text" name="name" placeholder="Your Name">
-            <input type="email" name="email" placeholder="Your Email">
-            <textarea name="message" placeholder="Your Message"></textarea>
-            <button type="submit">Send Message</button>
-        </form>
-    </section>
-
-    <footer>
-        <p>&copy; 2024 Kristian Troy Eakins</p>
-    </footer>
-</body>
-</html>
-/* General Styles */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
