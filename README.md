@@ -27,7 +27,7 @@
     <section id="about">
         <h2>About Me</h2>
         <img src="profile-photo.jpg" alt="Kristian Troy Eakins">
-        <p>Hello! I'm Kristian, a high school student deeply passionate about finance, accounting, and making a difference through community service. My journey has been marked by leadership roles, rigorous academic pursuits, and hands-on experience in the finance sector. I strive to blend my academic knowledge with real-world applications to drive positive change.</p>
+        <p>As a dedicated high school student passionate about finance and accounting, I’ve spent most of my academic journey exploring business and leadership in and out of school. Through hands-on internships and taking leadership roles in organizations like the Joe DiMaggio All-Stars and Fairplay Sports for all, I’ve developed many skills in accounting, financial modeling, and community impact. With a GPA of 3.84 in the Business & Entrepreneurship Program at American Heritage School, I’m eager to continue my education in any and all environments that I can learn and grow as a person and business man.</p>
     </section>
 
     <!-- Experience Section -->
